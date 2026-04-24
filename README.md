@@ -1,1 +1,1 @@
-link https://github.com/TanvirFahadBd/GridViewnoSidebar.git
+link https://tanvirfahadbd.github.io/GridViewnoSidebar/
